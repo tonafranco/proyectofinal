@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608875699977",
+    "project_id": "reto-firebase3",
+    "storage_bucket": "reto-firebase3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608875699977:android:6ccc96c0b72e371700bdd8",
+        "android_client_info": {
+          "package_name": "com.movilesi.reto_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608875699977-228ofrcom2stga6eau4aihnbp6eaq17d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUDlfvSzcCu4apis9wKL-6W80UzjTT98c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608875699977-228ofrcom2stga6eau4aihnbp6eaq17d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

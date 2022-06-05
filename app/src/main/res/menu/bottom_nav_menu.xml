@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Inicio"
+        android:icon="@drawable/home_icon"
+        />
+    <item
+        android:id="@+id/perfilFragment"
+        android:title="Perfil"
+        android:icon="@drawable/person_icon"
+        />
+    <item
+        android:id="@+id/carritoFragment"
+        android:title="Carrito"
+        android:icon="@drawable/shopping_cart_icon"
+        />
+    <item
+        android:id="@+id/searchFragment"
+        android:title="Busqueda"
+        android:icon="@drawable/search_icon"
+        />
+    <item
+        android:id="@+id/randomFragment"
+        android:title="Aleatorio"
+        android:icon="@drawable/random_icon"
+        />
+
+
+</menu>
